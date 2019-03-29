@@ -26,10 +26,14 @@ body {
   margin-right: 0.5em;
 }
 
-.league-table {
+.team-logo {
   display: block;
+  float: right;
+  height: 500px;
 }
 
-.league-logo {
-  display: block;
+.away-team {
+  text-align: right;
 }
+
+
