@@ -86,4 +86,10 @@ body {
   font-size: 14px;
   background-color: lightgrey;
   text-align: center;
+  width: 100%;
+}
+
+#klopp-img, #salah-img{
+  width: 1000x;
+  height: 500px;
 }
