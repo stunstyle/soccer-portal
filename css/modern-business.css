@@ -82,5 +82,8 @@ body {
   color: #c59b08;
 }
 
-
-
+.img-info {
+  font-size: 14px;
+  background-color: lightgrey;
+  text-align: center;
+}
